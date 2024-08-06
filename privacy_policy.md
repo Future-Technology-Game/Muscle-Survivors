@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to Muscle Survivors, an exercise program designed to help you improve your fitness using AI technology. This Privacy Policy explains how Muscle Survivors, developed by an individual residing in Germany, collects, uses, and protects your information. By using the Muscle Survivors app, you agree to the terms of this Privacy Policy.
+Muscle Survivors is an exercise game designed to help you improve your fitness using AI technology. This Privacy Policy explains how Muscle Survivors, developed by an individual residing in Germany, collects, uses, and protects your information. By using the Muscle Survivors app, you agree to the terms of this Privacy Policy.
 
 ## 2. Information We Collect
 
@@ -25,18 +25,16 @@ Welcome to Muscle Survivors, an exercise program designed to help you improve yo
 
 ## 5. Data Security
 
-We take reasonable measures to protect your information from unauthorized access, use, or disclosure. Given that all data is stored locally on your device and we do not collect any personal information beyond the player name and password, the risk to your privacy is minimal.
+We take reasonable measures to protect your information from unauthorized access, use, or disclosure. Given that all data is stored locally on your device and we do not collect any personal information beyond the player name and password, the risk to your privacy is non-existant.
 
 ## 6. Children's Privacy
 
-Muscle Survivors is suitable for all ages, including children under the age of 13. We do not knowingly collect personal information from children other than the player name and password. If you are a parent or guardian and believe your child has provided us with additional personal information, please contact us at future.technologies@hotmail.com, and we will take steps to delete such information.
+Muscle Survivors is suitable for all ages, including children under the age of 13. We do not collect personal information from children other than the player name and password.
 
 ## 7. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+We may update this Privacy Policy from time to time. You are advised to review this Privacy Policy periodically for any changes.
 
 ## 8. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at future.technologies@hotmail.com.
-
-Thank you for using Muscle Survivors.
